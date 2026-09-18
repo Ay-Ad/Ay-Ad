@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER - remplace par tes propres SVG si tu veux garder le style "terminal" -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Ayoub+-+%C3%89tudiant+Data+%26+IA;Cybers%C3%A9curit%C3%A9+%2F+Linux+%2F+D%C3%A9veloppement+Web;En+route+vers+l'ESIEA" alt="typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Ayoub+-+%C3%89tudiant+Data+%26+IA;Cybers%C3%A9curit%C3%A9+%2F+Linux+%2F+D%C3%A9veloppement+Web;alt="typing banner">
 
 <br>
 
